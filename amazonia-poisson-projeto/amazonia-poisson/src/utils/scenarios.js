@@ -1,0 +1,38 @@
+export const SCENARIOS = [
+  {
+    id: 'incendios',
+    label: 'Incêndios semanais',
+    lambda: 3.2,
+    desc: 'Focos de incêndio por semana numa microrregião do AM',
+    unit: 'focos/semana',
+    icon: '🔥',
+    color: '#E85D04',
+  },
+  {
+    id: 'satelite',
+    label: 'Queimadas por satélite',
+    lambda: 1.4,
+    desc: 'Detecções diárias por satélite AQUA/TERRA (INPE)',
+    unit: 'detecções/dia',
+    icon: '🛰️',
+    color: '#E85D04',
+  },
+  {
+    id: 'deter',
+    label: 'Alertas DETER/mês',
+    lambda: 5.8,
+    desc: 'Alertas de desmatamento emitidos pelo DETER por mês',
+    unit: 'alertas/mês',
+    icon: '📡',
+    color: '#E85D04',
+  },
+  {
+    id: 'seca',
+    label: 'Época seca',
+    lambda: 0.8,
+    desc: 'Focos por dia em período de estiagem severa',
+    unit: 'focos/dia',
+    icon: '🌵',
+    color: '#E85D04',
+  },
+];
