@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="public/logo.png" alt="Logo FocoStat" width="120" />
+</div>
+
 # 🔥 FocoStat
 
 **Ferramenta educacional interativa para o ensino do Modelo de Poisson**, contextualizada com cenários reais de queimadas na Amazônia.
@@ -101,4 +105,4 @@ Este projeto foi desenvolvido com apoio de ferramentas de Inteligência Artifici
 
 ## 📄 Licença
 
-Projeto desenvolvido para fins acadêmicos no âmbito da Competição de Soluções LAMAPP/NUPEC — ICET/UFAM. Direitos de uso acadêmico cedidos ao LAMAPP e ao NUPEC conforme regulamento, sem prejuízo da autoria intelectual da equipe.
+Projeto desenvolvido para fins acadêmicos no âmbito da Competição de Soluções LAMAPP/NUPEC — ICET/UFAM. Direitos de uso acadêmico cedidos ao LAMAPP e ao NUPEC conforme regulamento, sem prejuízo da autoria intelectual da equipe.<img width="1024" height="1024" alt="ChatGPT Image 30 de jun  de 2026, 10_50_25" src="https://github.com/user-attachments/assets/1b0a06eb-b7b5-4d3a-b548-3e5c4aef3afe" />
