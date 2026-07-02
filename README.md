@@ -100,6 +100,7 @@ Este projeto foi desenvolvido com apoio de ferramentas de Inteligência Artifici
     <td align="center"><a href="https://github.com/FelipeRangelSilvestre"><img src="https://github.com/FelipeRangelSilvestre.png" width="100px;" alt=""/><br /><sub><b>Felipe Rangel</b></sub></a></td>
     <td align="center"><a href="https://github.com/IasBraga"><img src="https://github.com/IasBraga.png" width="100px;" alt=""/><br /><sub><b>Iasmim Braga</b></sub></a></td>
     <td align="center"><a href="https://github.com/marecelobarrosdasilva-bit"><img src="https://github.com/marecelobarrosdasilva-bit.png" width="100px;" alt=""/><br /><sub><b>Marcelo Barros</b></sub></a></td>
+     <td align="center"><a href="https://github.com/EduDelArdo-bit"><img src="https://github.com/EduDelArdo-bit.png" width="100px;" alt=""/><br /><sub><b>Eduardo Vilaça</b></sub></a></td>
   </tr>
 </table>
 
